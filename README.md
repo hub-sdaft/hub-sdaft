@@ -2,7 +2,6 @@
 ---
 I'm @hub-sdaft and this is my profile.
 I like coding in Python and JS (sometimes).
-Right now, I'm coding a discord bot and that's it.
 
 ---
 These are my beautiful stats:
